@@ -1,0 +1,15 @@
+{
+  "name": "expose-example",
+  "version": "1.0.0",
+  "description": "an expose loader example",
+  "main": "app.js",
+  "scripts": {
+    "build": "webpack --progress --hide-modules"
+  },
+  "author": "hjlld",
+  "license": "MIT",
+  "devDependencies": {
+    "expose-loader": "^0.7.3",
+    "webpack": "^2.6.1"
+  }
+}
